@@ -7,8 +7,8 @@
 ### Recent
 
 - 🐍 [OpenAI Python library API reference (UNOFFICIAL)](https://mmacy.github.io/openai-python/)
-- 🎲 [OSR Console: Adventures in turn-based text](https://github.com/osrapps/osr-console/tree/main)
+- 🎲 [OSR Console: Adventures in turn-based text](https://github.com/osrapps/osr-console)
 
 ### From the olden days
 
--  [OSRlib.NET](https://mmacy.github.io/osrlib-dotnet/)
+-  [OSRlib.NET](https://github.com/mmacy/osrlib-dotnet)
