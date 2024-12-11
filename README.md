@@ -2,7 +2,7 @@
 
 ### Current
 
-- 👌 [okcourse](https://github.com/mmacy/okcourse) - Python lib; generate lectures on any topic in MP3 format (requires OpenAI API key)
+- 👌 [okcourse](https://github.com/mmacy/okcourse)
 
 ### Recent
 
