@@ -2,7 +2,7 @@
 
 ### Current
 
-- 👌 [okcourse](https://github.com/mmacy/okcourse)
+- 👌 [okcourse Python library](https://mmacy.github.io/okcourse/) - Generate audiobook-style courses with lectures on any topic
 
 ### Recent
 
