@@ -6,7 +6,6 @@
 
 ### Recent
 
-- 📄 [Tech Doc Assistant](https://github.com/mmacy/tech-doc-assistant) - Proof-of-concept React app that generates well-formed tech docs from rough source content. _Vibe-coded with Google AI Studio, superseded by [Tech Doc Workflow](https://github.com/mmacy/tech-doc-workflow)_.
 - 👌 [okcourse Python library](https://mmacy.github.io/okcourse/) - Generate audiobook-style courses with lectures on any topic
 
 ### A bit older
