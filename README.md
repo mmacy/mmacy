@@ -1,18 +1,21 @@
 ## ☮️ Be excellent to each other. ☮️
 
+> :electron: AI-based  
+> :robot: AI-enabled
+
 ### Current
 
-- 🔃 [Tech Doc Workflow](https://github.com/mmacy/tech-doc-workflow) - React app that demonstrates an implementation of the [evaluator-optimizer](https://www.anthropic.com/engineering/building-effective-agents#workflow-evaluator-optimizer) pattern to produce publish-ready (or nearly so) technical docs. _Bootstrapped with Google AI Studio and developed further with Claude Code_.
+:electron: [Tech Doc Workflow](https://github.com/mmacy/tech-doc-workflow) - Technical documentation in minutes from only your source code and (hardly any) rough-draft content. React web app implementation of the LLM-in-a-loop agent-like [evaluator-optimizer](https://www.anthropic.com/engineering/building-effective-agents#workflow-evaluator-optimizer) pattern.
 
-### Recent
+#### Recent
 
-- 👌 [okcourse Python library](https://mmacy.github.io/okcourse/) - Generate audiobook-style courses with lectures on any topic
+:electron: [okcourse Python library](https://mmacy.github.io/okcourse/) - Generate audiobook-style courses with lectures on any topic.
 
-### A bit older
+#### Older
 
-- 🐍 [OpenAI Python library API reference (UNOFFICIAL)](https://mmacy.github.io/openai-python/)
-- 🎲 [OSR Console: Adventures in turn-based text](https://github.com/osrapps/osr-console)
+&nbsp;&nbsp;&nbsp;&nbsp; [OpenAI Python library API reference (UNOFFICIAL)](https://mmacy.github.io/openai-python/) - _stale_  
+:robot: [OSR Console: Adventures in turn-based text](https://github.com/osrapps/osr-console) - _crusty_
 
-### From the olden days
+#### Ancient
 
--  [OSRlib.NET](https://github.com/mmacy/osrlib-dotnet)
+&nbsp;&nbsp;&nbsp;&nbsp; [OSRlib.NET](https://github.com/mmacy/osrlib-dotnet) - _fossilized_ 💀
