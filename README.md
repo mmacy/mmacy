@@ -5,7 +5,7 @@
 
 ### Current
 
-:electron: [Tech Doc Workflow](https://github.com/mmacy/tech-doc-workflow) - Technical documentation in minutes from only your source code and (hardly any) rough-draft content. React web app implementation of the LLM-in-a-loop agent-like [evaluator-optimizer](https://www.anthropic.com/engineering/building-effective-agents#workflow-evaluator-optimizer) pattern.
+:electron: [Tech Doc Workflow](https://github.com/mmacy/tech-doc-workflow) - Technical documentation in minutes from only your source code and (hardly any) rough-draft content. React web app implementation of the LLM-in-a-loop agent-like *evaluator-optimizer* pattern.
 
 #### Recent
 
