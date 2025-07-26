@@ -5,7 +5,8 @@
 
 ### Current
 
-:electron: [Tech Doc Workflow](https://github.com/mmacy/tech-doc-workflow) - Technical documentation in minutes from only your source code and (hardly any) rough-draft content. React web app implementation of the LLM-in-a-loop agent-like *evaluator-optimizer* pattern.
+:electron: [modul8r](https://github.com/mmacy/modul8r) Convert table-top role-playing game (TTRPG) game book PDFs to Markdown.  
+:electron: [Tech Doc Workflow](https://github.com/mmacy/tech-doc-workflow) - Technical documentation in minutes from only your source code and (hardly any) rough-draft content. React web app implementation of a looping agent *evaluator-optimizer* pattern.
 
 #### Recent
 
