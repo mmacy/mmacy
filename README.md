@@ -5,7 +5,7 @@
 
 #### Current
 
-- :robot: [vibe-o-matic](https://github.com/mmacy/vibe-o-matic) - Vibe-coded YOLO-mode experiments.
+- :robot: [Vibe-o-matic](https://github.com/mmacy/vibe-o-matic) - Vibe-coded YOLO-mode experiments.
 
 #### Recent
 
