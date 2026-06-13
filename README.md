@@ -1,24 +1,15 @@
 ## ☮️ Be excellent to each other. ☮️
 
-> :robot: AI-based  
-> :electron: AI-enabled
+#### Latest
 
-#### Current
-
-- :robot: [OSR Plugins](https://github.com/mmacy/osr-plugins) - AI-powered Old-School Renaissance tabletop RPG plugin marketplace for Claude Code and GitHub Copilot CLI.
-
-#### Recent
-
-- :robot: [Vibe-o-matic](https://github.com/mmacy/vibe-o-matic) - Vibe-coded YOLO-mode experiments.
-
-- :robot: [Tech Doc Workflow](https://github.com/mmacy/tech-doc-workflow) - Technical documentation in minutes from only your source code and (hardly any) rough-draft content. React web app implementation of a multi-role looping *evaluator-optimizer* pattern.  
-- :robot: [okcourse Python library](https://mmacy.github.io/okcourse/) - Generate audiobook-style courses with lectures on any topic.
+- [OSR Plugins](https://github.com/mmacy/osr-plugins) - AI-powered Old-School Renaissance tabletop RPG plugin marketplace for Claude Code and GitHub Copilot CLI.
 
 #### Older
 
-- &nbsp;&nbsp;&nbsp;&nbsp; [OpenAI Python library API reference (UNOFFICIAL)](https://mmacy.github.io/openai-python/) - _stale_  
-- :electron: [OSR Console: Adventures in turn-based text](https://github.com/osrapps/osr-console) - _crusty_
+- [Tech Doc Workflow](https://github.com/mmacy/tech-doc-workflow) - Technical documentation in minutes from only your source code and (hardly any) rough-draft content. React web app implementation of a multi-role looping *evaluator-optimizer* pattern.  
+- [okcourse Python library](https://mmacy.github.io/okcourse/) - Generate audiobook-style courses with lectures on any topic.
+- [OSR Console: Adventures in turn-based text](https://github.com/osrapps/osr-console) - _crusty_
 
-#### Ancient
+#### From the Before times
 
 - &nbsp;&nbsp;&nbsp;&nbsp; [OSRlib.NET](https://github.com/mmacy/osrlib-dotnet) - _fossilized_ 💀
