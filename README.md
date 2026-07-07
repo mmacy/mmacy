@@ -2,7 +2,7 @@
 
 #### Latest
 
-- [osrlib-python](https://github.com/mmacy/osrlib-python) - Python library implementing the classic 1981 B/X (Basic/Expert) fantasy adventure game rules.
+- [osrlib-python](https://github.com/mmacy/osrlib-python) - Python library implementing the classic 1981 Basic/Expert (B/X) fantasy adventure game rules.
 - [osrlib-referee](https://github.com/mmacy/osrlib-referee) - MCP-enabled B/X referee: the osrlib engine owns the rules and state; the LLM narrates.
 
 #### Recent
