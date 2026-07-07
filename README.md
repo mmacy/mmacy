@@ -7,10 +7,10 @@
 
 #### Recent
 
-- [OSR Plugins](https://github.com/mmacy/osr-plugins) - AI-powered Old-School Renaissance tabletop RPG plugin marketplace for Claude Code and GitHub Copilot CLI.
 - [convo](https://github.com/mmacy/convo) - Two local LLMs hold a conversation with each other.
 - [debate-arena](https://github.com/mmacy/debate-arena) - Two local LLMs face off in a judged debate.
 - [storymaker](https://github.com/mmacy/storymaker) - Two local LLMs take turns writing a collaborative story.
+- [OSR Plugins](https://github.com/mmacy/osr-plugins) - AI-powered Old-School Renaissance tabletop RPG plugin marketplace for Claude Code and GitHub Copilot CLI.
 
 #### Older
 
