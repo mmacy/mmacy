@@ -4,6 +4,7 @@
 
 - <img src="https://raw.githubusercontent.com/mmacy/dermixen/main/docs/images/dermixen-icon.svg" alt="Dermixen icon" width="20" align="top"> [Dermixen](https://github.com/mmacy/dermixen) - Studio mix-authoring app for macOS and Linux, in Rust. Drop tracks on a timeline, get beatmatched transitions, export a continuous DJ mix to WAV or MP3. [Dermixen docs](https://mmacy.github.io/dermixen/).
 - [osrlib-python](https://github.com/mmacy/osrlib-python) - Python library implementing the classic 1981 Basic/Expert (B/X) fantasy adventure game rules. [osrlib docs](https://mmacy.github.io/osrlib-python/).
+- [osr-web](https://github.com/mmacy/osr-web) - Old-school dungeon crawler in the browser, built on osrlib. Plays any adventure osr-forge produces.
 - [osr-editor](https://github.com/mmacy/osr-editor) - GUI editor for creating and modifying OSR adventure modules playable by osrlib-powered games. [osr-editor docs](https://mmacy.github.io/osr-editor/).
 - [osr-forge](https://github.com/mmacy/osr-forge) - Convert tabletop adventure module PDFs into playable osrlib adventure documents. [osr-forge docs](https://mmacy.github.io/osr-forge/).
 
